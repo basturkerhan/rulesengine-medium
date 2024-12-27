@@ -1,0 +1,23 @@
+[
+    {
+        "WorkflowName": "Transfer",
+        "Rules": [
+            {
+                "RuleName": "BalanceControl",
+                "SuccessEvent": "10",
+                "ErrorMessage": "Bu işlem için yeterli bakiyeniz yok.",
+                "ErrorType": "Error",
+                "RuleExpressionType": "LambdaExpression",
+                "Expression": "input1.Balance >= input2.Amount"
+            },
+            {
+                "RuleName": "UnderZero",
+                "SuccessEvent": "10",
+                "ErrorMessage": "Bakiye geçerli bir sayı olmalıdır.",
+                "ErrorType": "Error",
+                "RuleExpressionType": "LambdaExpression",
+                "Expression": "TestMethods.UnderOrEqualsZero(input2.Amount) == false"
+            }
+        ]
+    }
+]

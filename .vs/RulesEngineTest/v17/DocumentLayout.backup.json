@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|c:\\users\\pc\\source\\repos\\rulesenginetest\\rulesenginetest.api\\rulemodule\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|solutionrelative:rulesenginetest.api\\rulemodule\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|c:\\users\\pc\\source\\repos\\rulesenginetest\\rulesenginetest.api\\rulemodule\\custommethods\\testmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|solutionrelative:rulesenginetest.api\\rulemodule\\custommethods\\testmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|c:\\users\\pc\\source\\repos\\rulesenginetest\\rulesenginetest.api\\rulemodule\\helpers\\rulefilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|solutionrelative:rulesenginetest.api\\rulemodule\\helpers\\rulefilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|c:\\users\\pc\\source\\repos\\rulesenginetest\\rulesenginetest.api\\rulemodule\\models\\rulecheckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|solutionrelative:rulesenginetest.api\\rulemodule\\models\\rulecheckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|c:\\users\\pc\\source\\repos\\rulesenginetest\\rulesenginetest.api\\rulemodule\\services\\rulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|solutionrelative:rulesenginetest.api\\rulemodule\\services\\rulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|c:\\users\\pc\\source\\repos\\rulesenginetest\\rulesenginetest.api\\rules\\transferrule.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F6E0BD4-774C-428A-A2B3-995AF215AF20}|RulesEngineTest.API\\RulesEngineTest.API.csproj|solutionrelative:rulesenginetest.api\\rules\\transferrule.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestMethods.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\RuleModule\\CustomMethods\\TestMethods.cs",
+              "RelativeDocumentMoniker": "RulesEngineTest.API\\RuleModule\\CustomMethods\\TestMethods.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\RuleModule\\CustomMethods\\TestMethods.cs",
+              "RelativeToolTip": "RulesEngineTest.API\\RuleModule\\CustomMethods\\TestMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:44:17.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\RuleModule\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "RulesEngineTest.API\\RuleModule\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\RuleModule\\ServiceRegistration.cs",
+              "RelativeToolTip": "RulesEngineTest.API\\RuleModule\\ServiceRegistration.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:39:56.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RuleFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\RuleModule\\Helpers\\RuleFileReader.cs",
+              "RelativeDocumentMoniker": "RulesEngineTest.API\\RuleModule\\Helpers\\RuleFileReader.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\RuleModule\\Helpers\\RuleFileReader.cs",
+              "RelativeToolTip": "RulesEngineTest.API\\RuleModule\\Helpers\\RuleFileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:38:58.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RuleCheckModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\RuleModule\\Models\\RuleCheckModel.cs",
+              "RelativeDocumentMoniker": "RulesEngineTest.API\\RuleModule\\Models\\RuleCheckModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\RuleModule\\Models\\RuleCheckModel.cs",
+              "RelativeToolTip": "RulesEngineTest.API\\RuleModule\\Models\\RuleCheckModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:36:13.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RulesService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\RuleModule\\Services\\RulesService.cs",
+              "RelativeDocumentMoniker": "RulesEngineTest.API\\RuleModule\\Services\\RulesService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\RuleModule\\Services\\RulesService.cs",
+              "RelativeToolTip": "RulesEngineTest.API\\RuleModule\\Services\\RulesService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:34:48.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransferRule.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\Rules\\TransferRule.json",
+              "RelativeDocumentMoniker": "RulesEngineTest.API\\Rules\\TransferRule.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\RulesEngineTest\\RulesEngineTest.API\\Rules\\TransferRule.json",
+              "RelativeToolTip": "RulesEngineTest.API\\Rules\\TransferRule.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T12:55:25.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

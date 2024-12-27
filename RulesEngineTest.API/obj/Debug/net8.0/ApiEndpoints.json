@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "RulesEngineTest.API.Controllers.BanksController",
+    "Method": "Transfer",
+    "RelativePath": "api/Banks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RulesEngineTest.API.DTOs.TransferRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
